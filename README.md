@@ -1,2 +1,1 @@
-Overview
 The Traffic Speed Violation Alert System is an intelligent solution designed to monitor vehicle speeds on different streets using IoT-based IR sensors. The system analyzes collected data using machine learning algorithms and stores the results in MongoDB for real-time alerts and comparative analysis. When a vehicle exceeds the street-specific speed limit, the system automatically alerts the traffic department.
